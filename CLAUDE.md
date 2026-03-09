@@ -8,7 +8,7 @@
 
 ## Projektbeskrivelse
 <!-- Udfyld kort: hvad er dette projekt, hvad løser det, for hvem? -->
-[BESKRIV PROJEKTET HER — 2-3 linjer]
+[løsningen er en oversigt over min pensionsopsparing. Den skal tage alle mine aktietransaktioner som jeg har liggende i csv fil og vise et overblik over min aktieprotefølje, hvad dens værdi er i dag ud fra aktuelle aktiekurser der automatisk hentes. et visuelt overblik skal vise hvor meget der er investeret og hvor meget af værdien er oprindelig investering og hvor meget er værdistigninger. ]
 
 
 ## Workflow
